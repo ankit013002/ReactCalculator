@@ -1,0 +1,16 @@
+.button-container {
+    border: #777 solid 1px;
+    background-color: #333;
+    max-height: 100px;
+    cursor: pointer;
+}
+
+.button-container:hover {
+    background-color: #555;
+}
+
+.button-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
